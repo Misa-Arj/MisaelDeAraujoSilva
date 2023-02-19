@@ -1,16 +1,12 @@
-### Hi there 👋
+## Olá, prazer! 
 
-<!--
-**MisaeldeAraujoSilva/MisaelDeAraujoSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Skills
+<a><img src = "https://img.shields.io/badge/spring-%236DB33F.svg?style=Plastic&logo=spring&logoColor=white"></a>
+ 
+<a><img src = "https://img.shields.io/badge/git-%23F05033.svg?style=Plastic&logo=git&logoColor=white"></a>
+ 
+<a><img src = "https://img.shields.io/badge/github-%23121011.svg?style=Plastic&logo=github&logoColor=white"></a>
+ 
+<a><img src = "https://img.shields.io/badge/Postman-FF6C37?style=Plastic&logo=postman&logoColor=white"></a>
+ 
+<a><img src = "https://img.shields.io/badge/mysql-%2300f.svg?style=Plastic&logo=mysql&logoColor=white"></a>
